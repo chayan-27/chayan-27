@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Chayan Sharma from NIT Trichy
-### ✌ Knowing Android App Development 😅😅 
+### ✌ Always ready to learn new skills 😅😅 
 
 <!--
 **chayan-27/chayan-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
