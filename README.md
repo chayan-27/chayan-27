@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Chayan Sharma from NIT Trichy
-### ✌ Always ready to learn new skills 😅😅 
+### 📲📲 Android App Developer
+### ✌ Always ready to learn new skills
 
 ### ![](https://komarev.com/ghpvc/?username=chayan-27&color=green)
 
